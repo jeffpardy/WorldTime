@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">World Time</string>
+    <string name="location_hint">Enter location</string>
+    <string name="button_get_time">Get Time</string>
+    <string name="button_getting_time">Getting Time...</string>
+
+</resources>
